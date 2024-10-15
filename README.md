@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Ethan Hankel]
+## [HW 1]
+## [Submission date: 10/15/24]
 ## Worked with/sources 
 * example
 * example
