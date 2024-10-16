@@ -1,12 +1,11 @@
-# Your Name Here
+# Ethan Hankel
 # UWYO COSC 1010
-# Submission Date
+# Submission Date: 10/15/24
 # Lab 06
-# Lab Section: 
+# Lab Section: 14
 # Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# I used the Dictionaries Powerpoint
+# And i used chat gpt to help clean up my code when i was struggling to get it to work.
 
 
 random_string = """
@@ -96,6 +95,7 @@ total_character_count = len(random_string)
 #Will need to first declare a dictionary 
 
 # Output: each letter and its corresponding occurrence in alphabetical order
+
 
 print("Character count:")
 for char, count in sorted_character_count.items():
